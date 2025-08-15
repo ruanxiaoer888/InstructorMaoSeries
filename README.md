@@ -275,6 +275,15 @@
 3. 按历史时期分卷整理，便于研究特定历史阶段的思想发展
 4. 项目已配置Git LFS支持，适合大型文档集合的版本管理
 
+## 联系方式
+
+- **个人微信**：feizi1566
+- **微信公众号**：阮小贰
+- **个人网站**：[https://www.xiaoerpro.com/](https://www.xiaoerpro.com/)
+- **GitHub**：[https://github.com/ruanxiaoer888](https://github.com/ruanxiaoer888)
+
+![联系方式](如何链接？.PNG)
+
 ## 版权声明
 
 本项目收录的文献资料仅供学术研究和教育用途使用。
